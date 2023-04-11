@@ -48,7 +48,9 @@ public class CoronaVirusDataService {
             locationStat.setLatestTotalCases(Integer.parseInt(record.get(record.size() - 1)));
             newStats.add(locationStat);
         }
-    this.allStats = newStats;
+
+
+        this.allStats = newStats;
     }
 
 }
