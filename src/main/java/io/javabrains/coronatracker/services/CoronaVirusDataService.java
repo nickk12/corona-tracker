@@ -49,7 +49,6 @@ public class CoronaVirusDataService {
             newStats.add(locationStat);
         }
 
-
         this.allStats = newStats;
     }
 
