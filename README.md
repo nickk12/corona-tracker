@@ -1,4 +1,4 @@
-# covid-19-tracker-global 💉 😷
+# Global Covid-19 tracker 💉 😷
 
 
 ## About
